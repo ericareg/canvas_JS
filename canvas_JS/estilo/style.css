@@ -1,0 +1,9 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+    background: #87CEEB;
+  }
+
+  img {
+    display: none; /* Esconde a imagem original */
+  }
